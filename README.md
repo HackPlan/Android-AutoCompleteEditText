@@ -1,6 +1,6 @@
 # AutoCompleteEditText
 
-A simple EditText that can show a drop-down list after input '#' symbol.
+A simple EditText that can show a drop-down list after input a symbol.
 
 ![AutoCompleteEditText](https://raw.githubusercontent.com/HackPlan/Android-AutoCompleteEditText/master/preview.gif)
 
