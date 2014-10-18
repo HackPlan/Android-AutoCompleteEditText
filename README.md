@@ -2,7 +2,8 @@
 
 A simple EditText that can show a drop-down list after input '#' symbol.
 
-![AutoCompleteEditText](https://raw.github.com/dacer/AndroidCharts/master/preview.gif)
+![AutoCompleteEditText](https://raw.githubusercontent.com/HackPlan/Android-AutoCompleteEditText/master/preview.gif)
+
 It was used in [Pomotodo](https://play.google.com/store/apps/details?id=com.pomotodo)
 
 ## Usage
